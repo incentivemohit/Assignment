@@ -19,10 +19,10 @@
 as well as listening the port.
 
 Following are the apis which i have developed:
--/api/v1/userDetails/users-income-lower-than-and-carbrand
--/api/v1/userDetails/male-users-phone-price-greater
--/api/v1/userDetails/users-lastname-and-quote-character-length-and-email-lastname
--/api/v1/userDetails/users-carbrand-and-email-without-digits
--/api/v1/userDetails/showing-data-top-10-cities
+1./api/v1/userDetails/users-income-lower-than-and-carbrand
+2./api/v1/userDetails/male-users-phone-price-greater
+3./api/v1/userDetails/users-lastname-and-quote-character-length-and-email-lastname
+4./api/v1/userDetails/users-carbrand-and-email-without-digits
+5./api/v1/userDetails/showing-data-top-10-cities
 
 
